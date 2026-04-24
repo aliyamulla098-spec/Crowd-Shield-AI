@@ -98,7 +98,7 @@ The system includes a *simulation fallback mode* to ensure continuous operation 
 ---
 
 ## 📂 Project Structure
-/project-root │── index.html │── script.js │── style.css │── /assets
+/crowd-shield-AI │── index.html │── script.js │── style.css │
 
 ## 👥 Team
 
