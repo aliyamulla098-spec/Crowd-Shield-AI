@@ -55,7 +55,7 @@ Camera Feed → AI Detection → Zone Analysis → Surge Detection → AI Alerts
 
 ## 🎬 Demo Video
 
-🎥 [Add your demo video link here]
+🎥 [https://drive.google.com/file/d/1yGV6o4IBWivQMRy62eck-iuH3n8jmqgw/view?usp=drivesdk]
 
 ---
 
@@ -100,7 +100,7 @@ The system includes a *simulation fallback mode* to ensure continuous operation 
 ## 📂 Project Structure
 /crowd-shield-AI │── index.html │── script.js │── style.css │
 
-## 👥 Team
+## 👥 Team- Dynamic Duo
 
 •⁠  ⁠Siya Malagoudar  
 •⁠  ⁠Aliya Mulla
